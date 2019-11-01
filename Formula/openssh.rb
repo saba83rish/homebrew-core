@@ -4,7 +4,7 @@ class Openssh < Formula
   url "https://ftp.openbsd.org/pub/OpenBSD/OpenSSH/portable/openssh-7.9p1.tar.gz"
   mirror "https://mirror.vdms.io/pub/OpenBSD/OpenSSH/portable/openssh-7.9p1.tar.gz"
   version "7.9p1"
-  sha256 "nSVigtHGn3+xKXRqpSnp4YOyEPPAb+pCHdWS9Eh/IPY="
+  sha256 "6b4b3ba2253d84ed3771c8050728d597c91cfce898713beb7b64a305b6f11aad"
 
   bottle do
     sha256 "825d62ddaf333750d265a8791d808af2fd41085f81d51249970a7dff50e331b3" => :catalina
